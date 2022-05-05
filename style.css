@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+}
+table{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+th{
+    font-weight:bold ;
+    font-size: 50px;
+}
+td{
+    font-weight: normal;
+    font-size: 25px;
+}
+ul{
+    text-align: center;
+}
+@keyframes resplandor {
+    to{
+        opacity: 1;
+    }
+    from{
+        opacity: 0;
+    }
+}
